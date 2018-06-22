@@ -1,0 +1,18 @@
+.Header {
+    grid-area: head;
+    background: #ffe8ec;
+    padding-left: 40px; 
+    padding-top: 52px;
+    display: flex;
+    &__image {
+        width: 30%;
+        align-self: flex-end
+    }
+    &__info {
+        margin-left: 10px;
+    }
+    &__heading {
+        font-size: 50px;
+    }
+    
+}

@@ -1,0 +1,13 @@
+.Header {
+  grid-area: head;
+  background: #ffe8ec;
+  padding-left: 40px;
+  padding-top: 52px;
+  display: flex; }
+  .Header__image {
+    width: 30%;
+    align-self: flex-end; }
+  .Header__info {
+    margin-left: 10px; }
+  .Header__heading {
+    font-size: 50px; }
